@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\zadacha-metod-figura\zadacha-metod-figura\bin\Debug\zadacha-metod-figura.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\zadacha-metod-figura\zadacha-metod-figura\bin\Debug\zadacha-metod-figura.exe
+C:\Users\1409-12\Desktop\Наталия 9а\zadacha-metod-figura\zadacha-metod-figura\bin\Debug\zadacha-metod-figura.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\zadacha-metod-figura\zadacha-metod-figura\obj\Debug\zadacha-metod-figura.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\zadacha-metod-figura\zadacha-metod-figura\obj\Debug\zadacha-metod-figura.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\zadacha-metod-figura\zadacha-metod-figura\obj\Debug\zadacha-metod-figura.exe
+C:\Users\1409-12\Desktop\Наталия 9а\zadacha-metod-figura\zadacha-metod-figura\obj\Debug\zadacha-metod-figura.pdb
